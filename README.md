@@ -1,2 +1,1 @@
-This is the root README file
-up to date
+Root README file updated
